@@ -1,5 +1,3 @@
 Testing cloning
 
-Local change - pushing to a protected main - test
-
-Remote conflict!
+Local change - pushing to a protected main - CONFLICT SOLVED!
